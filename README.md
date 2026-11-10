@@ -1,5 +1,3 @@
-# QuantFinance
-
 # 📈 Quantitative Finance
 
 ### Data-Driven Financial Analysis, Mathematical Modeling & Algorithmic Trading
