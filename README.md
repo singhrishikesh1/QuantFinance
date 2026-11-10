@@ -164,5 +164,3 @@ Always consider transaction costs, slippage, market volatility, and financial ri
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
-
-**Exploring the intersection of Mathematics, Programming, Statistics, and Financial Markets.**
