@@ -154,4 +154,4 @@ The strategies and models explored in this repository should not be considered f
 Always consider transaction costs, slippage, market volatility, and  risks before applying any strategy to live markets.
 
 
-- GitHub: [Your 
+- GitHub: [
