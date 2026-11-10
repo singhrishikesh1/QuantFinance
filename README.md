@@ -160,4 +160,4 @@ Always consider transaction costs, slippage, market volatility, and  risks befor
 
 ---
 
-⭐ If you find this project interesting, consider giving the repository a star
+⭐ If you find this project interesting, consider giving the repository a 
