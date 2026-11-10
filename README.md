@@ -149,7 +149,7 @@ The project may cover the following quantitative finance concepts:
 
 ## ⚠️ Disclaimer
 
-This project is developed for educational, research, and experimental purposes.
+This project is developed for educational, research, and experimental 
 
 The strategies and models explored in this repository should not be considered financial advice or guaranteed methods of generating profits. Historical performance does not guarantee future results.
 
