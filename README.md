@@ -153,7 +153,7 @@ This project is developed for educational, research, and experimental purposes.
 
 The strategies and models explored in this repository should not be considered financial advice or guaranteed methods of generating profits. Historical performance does not guarantee future results.
 
-Always consider transaction costs, slippage, market volatility, and financial risks before applying any strategy to live markets.
+Always consider transaction costs, slippage, market volatility, and  risks before applying any strategy to live markets.
 
 
 - GitHub: [Your GitHub Profile](https://github.com/your-username)
